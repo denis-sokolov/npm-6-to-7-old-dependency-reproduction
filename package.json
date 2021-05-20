@@ -3,7 +3,7 @@
     "@types/react-select": "^4.0.15"
   },
   "engines": {
-    "npm": "6.14.9"
+    "npm": "7.11.2"
   },
   "name": "reproduce-bug",
   "private": true
