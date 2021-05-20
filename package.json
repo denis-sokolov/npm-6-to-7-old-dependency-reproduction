@@ -1,0 +1,8 @@
+{
+  "dependencies": {},
+  "engines": {
+    "npm": "6.14.9"
+  },
+  "name": "reproduce-bug",
+  "private": true
+}
